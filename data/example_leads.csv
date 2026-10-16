@@ -1,0 +1,6 @@
+full_name,email,company,role,linkedin,notes,sent_status,sent_time,error_message
+Alex Johnson,alex.johnson@example.com,Acme Corporation,Engineering Manager,https://linkedin.com/in/alexjohnson,Met at open source summit,,,
+Sarah Williams,sarah.williams@example.com,Nova Solutions,Director of Product,https://linkedin.com/in/sarahwilliams,Interested in AI tooling,,,
+Michael Brown,michael.brown@example.com,Apex Innovations,Head of Talent,https://linkedin.com/in/michaelbrown,Looking for engineers,,,
+Emily Davis,emily.davis@example.com,CloudScale Labs,Principal Architect,https://linkedin.com/in/emilydavis,Mutual acquaintance referral,,,
+David Miller,david.miller@example.com,Quantum Analytics,VP of Operations,https://linkedin.com/in/davidmiller,Follow-up on product webinar,,,
