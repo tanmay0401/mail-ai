@@ -1,0 +1,19 @@
+Subject: Exploring Opportunities at {company}
+
+Hi {first_name},
+
+I hope this email finds you well.
+
+I have been closely following {company}'s work and recent milestones, and I am very impressed by what your team is building. 
+
+I am reaching out to explore potential opportunities to contribute to your team, particularly in roles involving software engineering, data analysis, and technical problem solving. I bring hands-on experience building reliable systems, working with modern tech stacks, and turning complex requirements into working solutions.
+
+If there are any current or upcoming openings matching my background, I would welcome the chance to connect. I have attached my resume for your review.
+
+Would you be open to a brief 10-15 minute introductory call sometime next week?
+
+Thank you for your time and consideration.
+
+Best regards,
+Your Name
+Your Contact Information / LinkedIn
